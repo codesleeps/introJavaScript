@@ -1,6 +1,6 @@
 # introJavaScript
 
-## Introduction JavaScript
+## Introduction - JavaScript Week 4 @ edX Bootcamps
 
 ## Acceptance Criteria
 
@@ -12,3 +12,4 @@
 
 * It's done when I store a fun fact in a variable called `funFact` and this line is logged to the console: "Fun fact: `VALUE_STORED_IN_VARIABLE_FUNFACT`."
 
+![Screenshot 2023-03-02 at 11 22 49](https://user-images.githubusercontent.com/125808990/222414965-5d872cf0-5fff-4cb6-a30a-db9e90b7d55c.png)
